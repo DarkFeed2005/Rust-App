@@ -22,11 +22,8 @@ A beautiful, fast, and lightweight cross-platform desktop note-taking applicatio
 
 ## 🖼️ Screenshots
 
-> Add your screenshots here
-
-```
-[Screenshot placeholder - Add your app screenshots]
-```
+<img src="app.png" alt="App Screenshot" width="400">
+<img src="test.png" alt="App Screenshot" width="400">
 
 ## 🚀 Getting Started
 
@@ -38,7 +35,7 @@ A beautiful, fast, and lightweight cross-platform desktop note-taking applicatio
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/note-app.git
+   git clone https://github.com/DarkFeed2005/Rust-App.git
    cd note-app
    ```
 
